@@ -7,3 +7,7 @@ These images are used in various posts such as [Substack](https://michaelaroy.su
 ## Layout
 
 Images are grouped by month, for example `2026-11/k3s-cluster.jpg`.
+
+## License
+
+Images are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You're welcome to reuse them with credit to Michael Roy.
